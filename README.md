@@ -299,4 +299,4 @@ This project successfully demonstrates a **Multimodal RAG system** capable of:
 
 ---
 
-**BITS Pilani • WILP • Automotive Multimodal RAG Project** 🚀
+**BITS Pilani • WILP • Automotive Multimodal RAG Project** **Pradeep Nimesh 2024tm05059**
