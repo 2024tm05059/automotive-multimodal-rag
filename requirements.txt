@@ -1,0 +1,10 @@
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.6.4
+python-dotenv==1.0.1
+langchain==0.1.14
+faiss-cpu==1.7.4
+sentence-transformers==2.6.1
+PyMuPDF==1.23.7
+Pillow==10.2.0
+openai==1.14.3
